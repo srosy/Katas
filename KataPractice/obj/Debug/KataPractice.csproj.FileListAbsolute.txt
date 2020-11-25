@@ -1,0 +1,7 @@
+E:\Programming\Katas\KataPractice\bin\Debug\KataPractice.exe.config
+E:\Programming\Katas\KataPractice\bin\Debug\KataPractice.exe
+E:\Programming\Katas\KataPractice\bin\Debug\KataPractice.pdb
+E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.csprojAssemblyReference.cache
+E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.csproj.CoreCompileInputs.cache
+E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.exe
+E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.pdb
