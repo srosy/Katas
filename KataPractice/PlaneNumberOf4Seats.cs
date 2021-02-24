@@ -1,46 +1,33 @@
-﻿
-using System.Text;
-
-using System.Runtime.InteropServices;
-using System.Threading.Tasks;
-using System.Text.RegularExpressions;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace KataPractice
 {
-    class Program
+    class PlaneNumberOf4Seats
     {
-        public static void Main(string[] args)
+        public int solution(int N, string S)
         {
-            var answer = Solution(2, "");
-            Console.WriteLine(answer);
-        }
-
-        // return the largest number of the family
-        public static int Solution(int N, string S)
-        {
-            if (string.IsNullOrEmpty(S))
+            if (string.IsNullOrEmpty(S) && N == 1)
             {
-                return 2; // only 2 families at most can be seated in a single row
+                return 2; // one row can at most seat two families of four
             }
 
             var resevedSeats = S.ToUpper().Split(' ').ToArray();
             var map = new Dictionary<char, int>()
-            {
-                {'A', 0 },
-                {'B', 1 },
-                {'C', 2 },
-                {'D', 3 },
-                {'E', 4 },
-                {'F', 5 },
-                {'G', 6 },
-                {'H', 7 },
-                {'I', 8 },
-                {'J', 9 },
-                {'K', 10 }
-            };
+        {
+            {'A', 0 },
+            {'B', 1 },
+            {'C', 2 },
+            {'D', 3 },
+            {'E', 4 },
+            {'F', 5 },
+            {'G', 6 },
+            {'H', 7 },
+            {'I', 8 },
+            {'J', 9 },
+            {'K', 10 }
+        };
             var seats = new bool[N, 10]; // row, col
 
             var allowedAssignments = new List<decimal>() { 1234, 3456, 5678 };
@@ -49,10 +36,10 @@ namespace KataPractice
             for (int i = 0; i < resevedSeats.Length; i++)
             {
                 var col = map[resevedSeats[i].Last()];
-                //map.TryGetValue(resevedSeats[i].Last(), out var col);
+                //map.TryGetValue(resevedSeats[i].Last(), out var col); // I usually use trygets
 
                 var row = int.Parse(resevedSeats[i].First().ToString()) - 1;
-                //int.TryParse(resevedSeats[i].First().ToString(), out var row); row--;
+                //int.TryParse(resevedSeats[i].First().ToString(), out var row); row--; // I usually use trygets
 
                 if (col < 0 || row < 0)
                 {
@@ -90,6 +77,4 @@ namespace KataPractice
         }
     }
 }
-
-
 

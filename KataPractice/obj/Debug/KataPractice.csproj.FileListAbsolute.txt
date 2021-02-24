@@ -5,3 +5,10 @@ E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.csprojAssemblyReference
 E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.csproj.CoreCompileInputs.cache
 E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.exe
 E:\Programming\Katas\KataPractice\obj\Debug\KataPractice.pdb
+E:\Programming\Katas\Katas\KataPractice\bin\Debug\KataPractice.exe.config
+E:\Programming\Katas\Katas\KataPractice\bin\Debug\KataPractice.exe
+E:\Programming\Katas\Katas\KataPractice\bin\Debug\KataPractice.pdb
+E:\Programming\Katas\Katas\KataPractice\obj\Debug\KataPractice.csprojAssemblyReference.cache
+E:\Programming\Katas\Katas\KataPractice\obj\Debug\KataPractice.csproj.CoreCompileInputs.cache
+E:\Programming\Katas\Katas\KataPractice\obj\Debug\KataPractice.exe
+E:\Programming\Katas\Katas\KataPractice\obj\Debug\KataPractice.pdb
