@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="ArrayToTreeKata.cs" />
     <Compile Include="CalculatorKata.cs" />
+    <Compile Include="CodePasswordPermutationCrack.cs" />
     <Compile Include="DigitalRootKata.cs" />
     <Compile Include="GreedGameKata.cs" />
     <Compile Include="IsPefectBinaryTreeKata.cs" />

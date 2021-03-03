@@ -1,0 +1,13 @@
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.exe
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.deps.json
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.json
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.runtimeconfig.dev.json
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\Programming\Katas\Katas\DesignPatterns\bin\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csprojAssemblyReference.cache
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfoInputs.cache
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.AssemblyInfo.cs
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.csproj.CoreCompileInputs.cache
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.dll
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.pdb
+E:\Programming\Katas\Katas\DesignPatterns\obj\Debug\netcoreapp3.1\DesignPatterns.genruntimeconfig.cache
